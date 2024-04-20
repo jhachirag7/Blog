@@ -17,3 +17,6 @@ Login/Admin related modules deliberately not implemented, and the blueprint can 
 * Finally, Get to alembic head after autogenerating a revision or to create db ```sudo docker-compose exec website alembic upgrade head```
 
 * Check database migrations by running ```docker-compose exec website alembic current```
+
+*Output
+<img alt="ouput" height="400" src="images/pytest_output.jpg">
