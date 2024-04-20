@@ -19,4 +19,4 @@ Login/Admin related modules deliberately not implemented, and the blueprint can 
 * Check database migrations by running ```docker-compose exec website alembic current```
 
 *Output
-<img alt="ouput" height="400" src="images/pytest_output.jpg">
+<img alt="ouput" height="400" src="images/pytest_output.png">
