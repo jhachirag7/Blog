@@ -7,6 +7,8 @@ Login/Admin related modules deliberately not implemented, and the blueprint can 
 
 * Run the required migrations ```docker-compose exec website alembic upgrade head```
 
+* docker exec -it $container_id pip install pytest
+
 * Now navigate to ```http://localhost:8000``` in the browser to test it out.
 
 ## *Optional*
